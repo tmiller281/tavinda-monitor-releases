@@ -1,8 +1,8 @@
 {
-  "version": "0.3.5",
-  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.5/TavindaMonitor-Setup-0.3.5.exe",
-  "sha256": "7aacf0ced69933c031c5564281f5758113c504777efd3a1e0cfe8cd7bc72db29",
-  "notes": "Calibration waits for a steady reading (3 minutes) and records how long it held; Install now works even with an alert open and starts within a minute; Check now always finds the newest version.",
+  "version": "0.3.6",
+  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.6/TavindaMonitor-Setup-0.3.6.exe",
+  "sha256": "2dbc3ed094d15e164325faf3b73164df621c7e9c7dbd1aa504a1cd40f1e72825",
+  "notes": "Calibration test ends by itself once the probe is steady; enter a pre-calibrated probe's correction from its certificate.",
   "min_version": "0.0.0",
-  "signature": "aJCenhprzINgCEkBBAsGfDwe6Z7B/Ki6n8O0gLL4jz3bid719rTxu24G8CxvE9ZzTlcDLpYzDbZtglnKKQrZAw=="
+  "signature": "x6JsfHnOZYdar76VhXIVMZ97tWGQz/5yVbT0nTRURYDa/KHqF7tS6L8EgSh1BP8UQpc3Wo7YqxRFOWICTAU/AQ=="
 }
