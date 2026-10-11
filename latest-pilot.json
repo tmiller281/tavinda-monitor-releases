@@ -1,8 +1,8 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.4/TavindaMonitor-Setup-0.3.4.exe",
-  "sha256": "c8e0c6c3643b11a6bfda2ab728d88320f7e84fd64736111f302faafe2373e721",
-  "notes": "Updates now install the same night they are published; app messages also go to Windows Event Viewer (Application, Tavinda Monitor); plus everything in 0.3.3.",
+  "version": "0.3.5",
+  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.5/TavindaMonitor-Setup-0.3.5.exe",
+  "sha256": "7aacf0ced69933c031c5564281f5758113c504777efd3a1e0cfe8cd7bc72db29",
+  "notes": "Calibration waits for a steady reading (3 minutes) and records how long it held; Install now works even with an alert open and starts within a minute; Check now always finds the newest version.",
   "min_version": "0.0.0",
-  "signature": "ONXFWvzhVyKgv5jdEV0l8AdzqQizaL1dorXxNvaQ9p3ukUb8H5L/3H814S51JALwtsGjjuEvtMojXBgxBxnuCw=="
+  "signature": "aJCenhprzINgCEkBBAsGfDwe6Z7B/Ki6n8O0gLL4jz3bid719rTxu24G8CxvE9ZzTlcDLpYzDbZtglnKKQrZAw=="
 }
