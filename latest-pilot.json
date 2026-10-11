@@ -1,8 +1,8 @@
 {
-  "version": "0.3.6",
-  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.6/TavindaMonitor-Setup-0.3.6.exe",
-  "sha256": "2dbc3ed094d15e164325faf3b73164df621c7e9c7dbd1aa504a1cd40f1e72825",
-  "notes": "Calibration test ends by itself once the probe is steady; enter a pre-calibrated probe's correction from its certificate.",
+  "version": "0.3.7",
+  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.7/TavindaMonitor-Setup-0.3.7.exe",
+  "sha256": "bc29e21f77cce95131800da9389b67e03b12d8e7a1c655f88ec5c45c3ec4b455",
+  "notes": "Updates no longer hang: the app window is closed for the install and reopened after, and a failed update now says why. HACCP log keeps readings taken at earlier log times. Settings - Logs shows the app and update logs. A calibration test that is left running shows on the Dashboard and stops after 30 minutes. Units - Move this unit to another probe. A reply to an alert email acknowledges the alert and stops its reminders; managers are asked to record the corrective action, which is printed on the HACCP log.",
   "min_version": "0.0.0",
-  "signature": "x6JsfHnOZYdar76VhXIVMZ97tWGQz/5yVbT0nTRURYDa/KHqF7tS6L8EgSh1BP8UQpc3Wo7YqxRFOWICTAU/AQ=="
+  "signature": "l9cFuo+6RW6MRwROrBuzRzaPrRJRh+jq0HzgcBmPLL2n2/RJYInyVqDzEWeSPy5HF/kNXyU1FWjydcsAeYAdCQ=="
 }
