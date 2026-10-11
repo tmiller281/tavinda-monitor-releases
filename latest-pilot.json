@@ -1,8 +1,8 @@
 {
-  "version": "0.3.3",
-  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.3/TavindaMonitor-Setup-0.3.3.exe",
-  "sha256": "3343b3ba2b9dc1dad2c51e0742f9fdd45c2fbf9e9b390e4b0045488d1fe2f615",
-  "notes": "Calibration with a reference thermometer, Start/Stop/Restart monitoring in the tray, alerts per area (email, WhatsApp, Telegram), option for alerts only at log times, replace or delete a probe, add a Pill without Bluetooth, Pill MAC address shown, and many smaller fixes.",
+  "version": "0.3.4",
+  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.4/TavindaMonitor-Setup-0.3.4.exe",
+  "sha256": "c8e0c6c3643b11a6bfda2ab728d88320f7e84fd64736111f302faafe2373e721",
+  "notes": "Updates now install the same night they are published; app messages also go to Windows Event Viewer (Application, Tavinda Monitor); plus everything in 0.3.3.",
   "min_version": "0.0.0",
-  "signature": "lrvMvYhIwGxuupVXkAl8R9cHGe5XTAmBHhO8UsErfFBFOZwdY4sDVxQT2jVPZch/BnvLQie4ZEtusZl2M8TABg=="
+  "signature": "ONXFWvzhVyKgv5jdEV0l8AdzqQizaL1dorXxNvaQ9p3ukUb8H5L/3H814S51JALwtsGjjuEvtMojXBgxBxnuCw=="
 }
