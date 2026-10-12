@@ -1,8 +1,8 @@
 {
-  "version": "0.3.7",
-  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.7/TavindaMonitor-Setup-0.3.7.exe",
-  "sha256": "bc29e21f77cce95131800da9389b67e03b12d8e7a1c655f88ec5c45c3ec4b455",
-  "notes": "Updates no longer hang: the app window is closed for the install and reopened after, and a failed update now says why. HACCP log keeps readings taken at earlier log times. Settings - Logs shows the app and update logs. A calibration test that is left running shows on the Dashboard and stops after 30 minutes. Units - Move this unit to another probe. A reply to an alert email acknowledges the alert and stops its reminders; managers are asked to record the corrective action, which is printed on the HACCP log.",
+  "version": "0.3.8",
+  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.8/TavindaMonitor-Setup-0.3.8.exe",
+  "sha256": "8ab0f263434feec184c56e1ff04316538214a98ad27140013a0b26f7dc2ce0b3",
+  "notes": "An open alert no longer stops the night-time update. Updates still wait while a temperature log is due. Also includes everything in 0.3.7: updates no longer hang and say why if they fail; HACCP log keeps readings from earlier log times; Settings - Logs; a forgotten calibration test shows on the Dashboard and stops after 30 minutes; Move this unit to another probe; replies to alert emails acknowledge the alert and managers record the corrective action.",
   "min_version": "0.0.0",
-  "signature": "l9cFuo+6RW6MRwROrBuzRzaPrRJRh+jq0HzgcBmPLL2n2/RJYInyVqDzEWeSPy5HF/kNXyU1FWjydcsAeYAdCQ=="
+  "signature": "0SoAO03Bnhpu7bXepqmqeVBCPRHjTR0YMZePqHgKpoxRewF0okvnF3l2kAwTLEzUXbFvSt1E8AZy7rVicmU0Cw=="
 }
