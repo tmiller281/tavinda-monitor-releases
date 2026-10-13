@@ -1,8 +1,8 @@
 {
-  "version": "0.3.8",
-  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.8/TavindaMonitor-Setup-0.3.8.exe",
-  "sha256": "8ab0f263434feec184c56e1ff04316538214a98ad27140013a0b26f7dc2ce0b3",
-  "notes": "An open alert no longer stops the night-time update. Updates still wait while a temperature log is due. Also includes everything in 0.3.7: updates no longer hang and say why if they fail; HACCP log keeps readings from earlier log times; Settings - Logs; a forgotten calibration test shows on the Dashboard and stops after 30 minutes; Move this unit to another probe; replies to alert emails acknowledge the alert and managers record the corrective action.",
+  "version": "0.3.9",
+  "url": "https://github.com/tmiller281/tavinda-monitor-releases/releases/download/v0.3.9/TavindaMonitor-Setup-0.3.9.exe",
+  "sha256": "866b3a2149a9a3e81e7981a6baa5812ba7347f4570607494e72ce27e4e9d161d",
+  "notes": "Fixed: installing by hand now shows a licence agreement that must be accepted. Automatic updates are not affected. Not fixed yet (known): the agreement does not yet name the company; the Bar freezer alert at the pilot shop is a real temperature problem, not an app fault.",
   "min_version": "0.0.0",
-  "signature": "0SoAO03Bnhpu7bXepqmqeVBCPRHjTR0YMZePqHgKpoxRewF0okvnF3l2kAwTLEzUXbFvSt1E8AZy7rVicmU0Cw=="
+  "signature": "DJ8Tl3lwro7ySyZEZsvJrQvPPs3Hx1VqTHwXpBXz4bfYRHV33yMMadmo+fKMrBwzBJejsSAdUB5PDgdVM4StBw=="
 }
